@@ -2,7 +2,7 @@
 
 <h1>蕭承楷 Hsiao Cheng-Kai</h1>
 <ul>
-  <li>所在地: 台灣台中市</li>
+  <li>所在地: 台中市</li>
   <li>出生日期: 1992/12/06</li>
   <li>手機號碼: 0912-204-181</li>
   <li>電子信箱: chengkaihsiao@gmail.com</li>
